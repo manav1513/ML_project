@@ -2,5 +2,8 @@ pandas
 numpy
 seaborn 
 matplotlib
+pickle
+dill
+sklearn
 
 -e .
